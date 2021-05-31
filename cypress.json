@@ -1,7 +1,8 @@
 {
-  "pluginsFile": "node_modules/@cypress/react/plugins/cra-v3",
-  "supportFile": "node_modules/@cypress/react/support",
+  "viewportWidth": 1536,
+  "viewportHeight": 960,
+  "video": false,
+  "screenshotOnRunFailure": false,
   "testFiles": "**/*.cy-spec.*",
-  "experimentalComponentTesting": true,
   "componentFolder": "src"
 }
